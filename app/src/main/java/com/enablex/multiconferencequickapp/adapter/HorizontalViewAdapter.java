@@ -15,9 +15,8 @@ import com.enablex.multiconferencequickapp.model.HorizontalViewModel;
 
 import java.util.List;
 
-import enx_rtc_android.Controller.EnxPlayerView;
-import enx_rtc_android.Controller.EnxStream;
-
+import videoiq_android.Controller.EnxPlayerView;
+import videoiq_android.Controller.EnxStream;
 
 public class HorizontalViewAdapter extends RecyclerView.Adapter<HorizontalViewAdapter.MessageViewHolder> {
 
