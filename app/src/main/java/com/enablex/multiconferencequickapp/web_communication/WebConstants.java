@@ -8,7 +8,7 @@ public class WebConstants {
 
     /*Your webservice host URL, Keet the defined host when kTry = true */
 
-        public static final String kBaseURL = "https://api.videoiq.airtel.in/";
+        public static final String kBaseURL = "https://demo.videoiq.airtel.in/";
 
     /*The following information required, Only when kTry = true, When you hosted your own webservice remove these fileds*/
 
